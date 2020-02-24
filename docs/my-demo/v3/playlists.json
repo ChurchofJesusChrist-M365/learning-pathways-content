@@ -1,10 +1,10 @@
 [
   {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Id": "a531ab76-68d5-4620-89d1-be347b8d397b",
     "Title": "Modern SharePoint Editing Experience",
     "Image": "images/playlists/share_and_coauthor.png",
-    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
-    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
     "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
     "SubjectId": "",
     "Source": "Microsoft",
@@ -17,11 +17,11 @@
     ]
   },
   {
-    "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+    "Id": "dd6a9507-8fcd-4786-96b5-7bf333b2507f",
     "Title": "Getting started with Microsoft Forms",
     "Image": "images/playlists/forms_quick_startx.png",
-    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
-    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
     "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
     "SubjectId": "",
     "Source": "Microsoft",
