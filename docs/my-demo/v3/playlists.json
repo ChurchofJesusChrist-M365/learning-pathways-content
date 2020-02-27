@@ -17,6 +17,23 @@
     ]
   },
   {
+    "Id": "4",
+    "Title": "Lucid Chart",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "bea76034-1502-46d4-866d-7359467b9f99",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      
+    ]
+  },
+  {
     "Id": "dd6a9507-8fcd-4786-96b5-7bf333b2507f",
     "Title": "Getting started with Microsoft Forms",
     "Image": "images/playlists/forms_quick_startx.png",
