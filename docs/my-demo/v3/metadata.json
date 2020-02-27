@@ -166,6 +166,42 @@
           "SubCategories": []
         },
         {
+          "Id": "136bf759-c2a8-477b-a44c-c5f095c4f7ad",
+          "Name": "Adobe ",
+          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_adobe.png?",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": []
+       },
+       {
+          "Id": "bea76034-1502-46d4-866d-7359467b9f99",
+          "Name": "Lucid Chart",
+          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_lucid-chart.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": []
+       },
+       {
+          "Id": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
+          "Name": "Last Pass",
+          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_last-passs.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": []
+       },
+       {
+          "Id": "c277d699-ee3d-4b5c-8127-b85191c04d26",
+          "Name": "Drop Box",
+          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_dropbox.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": []
+       },
+        {
           "Id": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
           "Name": "Microsoft Project",
           "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-projects.png",
@@ -175,14 +211,32 @@
           "SubCategories": []
          
        },
-        {
-          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Access",
-          "Image": "images/categories/access.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
+       {
+        "Id": "67ffd14b-2cad-4ae7-a43b-cb0aa726a1bd",
+        "Name": "Microsoft Visio",
+        "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-visio.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Tenant",
+        "SubCategories": []
+     },
+     {
+        "Id": "6ebe3b3d-6b67-48a2-84ac-8319604aeeae",
+        "Name": "Figma",
+        "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_figma.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Tenant",
+        "SubCategories": []
+     },
+     {
+        "Id": "a6766f10-d6dd-4bec-b468-2e22f3c49f35",
+        "Name": "Stream",
+        "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-stream.png",
+        "TechnologyId": "",
+        "SubjectId": "",
+        "Source": "Tenant",
+        "SubCategories": []
         }
       ]
     },
