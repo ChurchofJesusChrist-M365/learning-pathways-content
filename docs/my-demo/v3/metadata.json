@@ -166,6 +166,16 @@
           "SubCategories": []
         },
         {
+          "Id": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+          "Name": "Microsoft Project",
+          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-projects.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": [],
+         
+       },
+        {
           "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
           "Name": "Accessibility",
           "Image": "images/categories/accessibility.png",
