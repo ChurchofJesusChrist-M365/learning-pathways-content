@@ -147,7 +147,7 @@
       "Subjects": []
     },
     {
-      "Id": "94e80506-6457-4207-af50-e6b90129a56a",
+      "Id": "9e805406-6457-4207-af50-e6b90129a56a",
       "Name": "Microsoft Project",
       "Subjects": []
     },
@@ -176,26 +176,6 @@
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
-        
-        {
-          "Id": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "Name": "SharePoint",
-          "Image": "images/categories/sharepoint.png",
-          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-  
-        {
-          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-          "Name": "Forms",
-          "Image": "images/categories/forms_training.png",
-          "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
 
         {
           "Id": "136bf759-c2a8-477b-a44c-c5f095c4f7ad",
@@ -220,15 +200,6 @@
           "Name": "Last Pass",
           "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_last-passs.png",
           "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
-          "SubjectId": "",
-          "Source": "Tenant",
-          "SubCategories": []
-       },
-       {
-          "Id": "c277d699-ee3d-4b5c-8127-b85191c04d26",
-          "Name": "Drop Box",
-          "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_dropbox.png",
-          "TechnologyId": "59c052db-9731-4999-b263-52f963310ab2",
           "SubjectId": "",
           "Source": "Tenant",
           "SubCategories": []

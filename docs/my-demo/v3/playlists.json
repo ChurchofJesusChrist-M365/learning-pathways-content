@@ -1,53 +1,216 @@
 [
   {
-    "Id": "a531ab76-68d5-4620-89d1-be347b8d397b",
-    "Title": "Modern SharePoint Editing Experience",
-    "Image": "images/playlists/share_and_coauthor.png",
-    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "Id": "3",
+    "Title": "Lucid Chart",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
     "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "Source": "Tenant",
+    "CatId": "bea76034-1502-46d4-866d-7359467b9f99",
+    "Description": "All you have to know about Lucid Charts",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "28dad67b-adb8-4df5-822b-677d81968eda"
+      "4",
+      "7",
+      "8",
+      "9"
     ]
   },
   {
     "Id": "4",
-    "Title": "Lucid Chart",
-    "Image": "images/playlists/forms_quick_startx.png",
-    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "Title": "Last Pass",
+    "Image": "https://office365lds.sharepoint.com/:i:/r/sites/Infohub/Site%20Pictures/last.png?csf=1&e=2j4Fcq",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
+    "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
     "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "bea76034-1502-46d4-866d-7359467b9f99",
-    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "Source": "Tenant",
+    "CatId": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
+    "Description": "Want a way to securely store your passwords. Look no further. Last Pass got you.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      
+      "5"
     ]
   },
   {
-    "Id": "dd6a9507-8fcd-4786-96b5-7bf333b2507f",
-    "Title": "Getting started with Microsoft Forms",
-    "Image": "images/playlists/forms_quick_startx.png",
-    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "Id": "6",
+    "Title": "Getting Started with last Pass",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
+    "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
     "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "Source": "Tenant",
+    "CatId": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
+    "Description": "Password saver",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "39a23830-452d-474c-ae1f-47a6ebefa21a"
+      "10"
     ]
-  }
+  },
+  {
+    "Id": "23",
+    "Title": "Microsoft Project",
+    "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-projects.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+    "Description": "This software gives you powerful new ways to effectively manage important projects. Unlock easy collaboration capabilities to quickly start and deliver winning projects while leveraging the power of Office 365 or SharePoint to work from virtually anywhere.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "32"
+    ]
+  },
+  {
+    "Id": "68",
+    "Title": "Outlook : Add a shared Mailbox to outlook",
+    "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
+    "LevelId": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "Description": "A shared mailbox makes it easy for a group of people to monitor and send email from a public email alias.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "Id": "76",
+    "Title": "Project for the web Quick Start",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+    "Description": "A new project management experience that is easy-to-use, web-based, and especially created for informal project managers",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "85",
+      "86",
+      "87",
+      "88"
+    ]
+  },
+  {
+    "Id": "77",
+    "Title": "Using Project",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+    "Description": "Project for the web provides simple, powerful work management capabilities and can be used by project managers and team members to plan and manage work of any size.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "89",
+      "90",
+      "91",
+      "92"
+    ]
+  },
+  {
+    "Id": "80",
+    "Title": "Using project for the web",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+    "Description": "Project for the web is built on Office 365 Groups, so it works with any Office 365 tools you use to collaborate with your teammates on projects",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "100"
+    ]
+  },
+  {
+    "Id": "81",
+    "Title": "Project desktop quick start",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
+    "Description": "This course will help you quickly adapt to project Desktop.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "101",
+      "102",
+      "103",
+      "104"
+    ]
+  },
+  {
+    "Id": "100",
+    "Title": "Project Online Quick start",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Project-Online-Quick-start.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+ },
+ {
+    "Id": "101",
+    "Title": "Create a project",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Create-a-project(1).aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+ },
+ {
+    "Id": "102",
+    "Title": "Edit a project",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Edit-a-prroject.aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+ },
+ {
+    "Id": "103",
+    "Title": "Manage a project",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Manage-a-project(1).aspx",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+ }
 ]
