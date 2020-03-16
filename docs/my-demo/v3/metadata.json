@@ -147,7 +147,7 @@
       "Subjects": []
     },
     {
-      "Id": "9e805406-6457-4207-af50-e6b90129a56a",
+      "Id": "94e80506-6457-4207-af50-e6b90129a56a",
       "Name": "Microsoft Project",
       "Subjects": []
     },
@@ -231,16 +231,7 @@
         "SubjectId": "",
         "Source": "Tenant",
         "SubCategories": []
-     },
-     {
-        "Id": "a6766f10-d6dd-4bec-b468-2e22f3c49f35",
-        "Name": "Stream",
-        "Image": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SiteAssets/logo_ms-stream.png",
-        "TechnologyId": "821b38c6-296d-4a27-b667-961a13258e95",
-        "SubjectId": "",
-        "Source": "Tenant",
-        "SubCategories": []
-        }
+     }
       ]
     },
     {

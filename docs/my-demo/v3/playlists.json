@@ -98,7 +98,7 @@
     "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
     "SubjectId": "",
     "Source": "Tenant",
     "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
@@ -118,7 +118,7 @@
     "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
     "SubjectId": "",
     "Source": "Tenant",
     "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
@@ -138,7 +138,7 @@
     "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
     "SubjectId": "",
     "Source": "Tenant",
     "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
@@ -155,7 +155,7 @@
     "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "9e805406-6457-4207-af50-e6b90129a56a",
+    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
     "SubjectId": "",
     "Source": "Tenant",
     "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
@@ -168,49 +168,6 @@
       "103",
       "104"
     ]
-  },
-  {
-    "Id": "100",
-    "Title": "Project Online Quick start",
-    "Description": "",
-    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Project-Online-Quick-start.aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "StatusTagId": "",
-    "StatusNote": ""
- },
- {
-    "Id": "101",
-    "Title": "Create a project",
-    "Description": "",
-    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Create-a-project(1).aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "StatusTagId": "",
-    "StatusNote": ""
- },
- {
-    "Id": "102",
-    "Title": "Edit a project",
-    "Description": "",
-    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Edit-a-prroject.aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "StatusTagId": "",
-    "StatusNote": ""
- },
- {
-    "Id": "103",
-    "Title": "Manage a project",
-    "Description": "",
-    "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Manage-a-project(1).aspx",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "StatusTagId": "",
-    "StatusNote": ""
- }
+  }
+  
 ]
