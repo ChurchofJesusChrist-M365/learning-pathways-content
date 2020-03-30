@@ -189,7 +189,7 @@
        {
           "Id": "bea76034-1502-46d4-866d-7359467b9f99",
           "Name": "Lucid Chart",
-          "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/courses_icon_lucid-chart.png",
+          "Image": "images/categories/courses_icon_lucid-chart.png",
           "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
           "SubjectId": "",
           "Source": "Tenant",
@@ -198,7 +198,7 @@
        {
           "Id": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
           "Name": "Last Pass",
-          "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/courses_icon_last-pass.png",
+          "Image": "images/categories/courses_icon_last-pass.png",
           "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
           "SubjectId": "",
           "Source": "Tenant",
@@ -207,7 +207,7 @@
         {
           "Id": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
           "Name": "Microsoft Project",
-          "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/logo_ms-projects.png",
+          "Image": "images/categories/logo_ms-projects.png",
           "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
           "SubjectId": "",
           "Source": "Tenant",
@@ -217,7 +217,7 @@
        {
         "Id": "67ffd14b-2cad-4ae7-a43b-cb0aa726a1bd",
         "Name": "Microsoft Visio",
-        "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/logo_ms-visio.png",
+        "Image": "images/categories/logo_ms-visio.png",
         "TechnologyId": "7797539e-524b-44a7-bc36-3060777f3c10",
         "SubjectId": "",
         "Source": "Tenant",
@@ -226,7 +226,7 @@
      {
         "Id": "6ebe3b3d-6b67-48a2-84ac-8319604aeeae",
         "Name": "Figma",
-        "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/courses_icon_figma.png",
+        "Image": "images/categories/courses_icon_figma.png",
         "TechnologyId": "019d8195-0c70-4109-aa8e-aa228f3b7ddc",
         "SubjectId": "",
         "Source": "Tenant",
