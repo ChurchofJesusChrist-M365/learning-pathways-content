@@ -22,7 +22,7 @@
   {
     "Id": "4",
     "Title": "Last Pass",
-    "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/playlists/playlist_bw.png",
+    "Image": "images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
     "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
@@ -39,7 +39,7 @@
   {
     "Id": "6",
     "Title": "Getting Started with last Pass",
-    "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/playlists/playlist_bw.png",
+    "Image": "images/playlists/playlist_bw.png",
     "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
     "AudienceId": "28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
     "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
