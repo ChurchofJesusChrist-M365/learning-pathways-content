@@ -180,7 +180,7 @@
         {
           "Id": "136bf759-c2a8-477b-a44c-c5f095c4f7ad",
           "Name": "Adobe ",
-          "Image": "https://denzy134.github.io/learning-pathways-content/my-demo/v3/images/categories/courses_icon_adobe.png",
+          "Image": "images/categories/courses_icon_adobe.png",
           "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
           "SubjectId": "",
           "Source": "Tenant",
