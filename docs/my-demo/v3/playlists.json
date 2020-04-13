@@ -1,25 +1,5 @@
 [
   {
-    "Id": "3",
-    "Title": "Lucid Chart",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "bea76034-1502-46d4-866d-7359467b9f99",
-    "Description": "All you have to know about Lucid Charts",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "4",
-      "7",
-      "8",
-      "9"
-    ]
-  },
-  {
     "Id": "4",
     "Title": "Last Pass",
     "Image": "images/playlists/playlist_bw.png",
