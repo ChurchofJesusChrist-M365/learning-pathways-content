@@ -1,38 +1,5 @@
 [
-  {
-    "Id": "4",
-    "Title": "Last Pass",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
-    "Description": "Want a way to securely store your passwords. Look no further. Last Pass got you.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "5"
-    ]
-  },
-  {
-    "Id": "6",
-    "Title": "Getting Started with last Pass",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
-    "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "6155f22b-e497-4cbe-86a3-2883df43ce1d",
-    "Description": "Password saver",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "10"
-    ]
-  },
+  
   {
     "Id": "23",
     "Title": "Microsoft Project",
