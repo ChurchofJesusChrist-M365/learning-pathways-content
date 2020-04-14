@@ -1,22 +1,6 @@
 [
   
-  {
-    "Id": "23",
-    "Title": "Microsoft Project",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
-    "Description": "This software gives you powerful new ways to effectively manage important projects. Unlock easy collaboration capabilities to quickly start and deliver winning projects while leveraging the power of Office 365 or SharePoint to work from virtually anywhere.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "32"
-    ]
-  },
+  
   {
     "Id": "68",
     "Title": "Outlook : Add a shared Mailbox to outlook",
@@ -38,83 +22,6 @@
       "43",
       "44"
     ]
-  },
-  {
-    "Id": "76",
-    "Title": "Project for the web Quick Start",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
-    "Description": "A new project management experience that is easy-to-use, web-based, and especially created for informal project managers",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "85",
-      "86",
-      "87",
-      "88"
-    ]
-  },
-  {
-    "Id": "77",
-    "Title": "Using Project",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
-    "Description": "Project for the web provides simple, powerful work management capabilities and can be used by project managers and team members to plan and manage work of any size.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "89",
-      "90",
-      "91",
-      "92"
-    ]
-  },
-  {
-    "Id": "80",
-    "Title": "Using project for the web",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
-    "Description": "Project for the web is built on Office 365 Groups, so it works with any Office 365 tools you use to collaborate with your teammates on projects",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "100"
-    ]
-  },
-  {
-    "Id": "81",
-    "Title": "Project desktop quick start",
-    "Image": "images/playlists/playlist_bw.png",
-    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
-    "SubjectId": "",
-    "Source": "Tenant",
-    "CatId": "06c78ccd-35ba-4b89-9cae-2112bffa3737",
-    "Description": "This course will help you quickly adapt to project Desktop.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "101",
-      "102",
-      "103",
-      "104"
-    ]
-  }
+  } 
   
 ]
