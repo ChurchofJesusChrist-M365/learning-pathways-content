@@ -1,6 +1,5 @@
 [
   {
-<<<<<<< HEAD
     "Id": "38d97c5f-78b6-40b5-af8b-bc6759a98f14",
     "Title": "Adobe Acrobat",
     "Description": "",
@@ -12,8 +11,6 @@
     "StatusNote": ""
  },
   {
-=======
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
     "Id": "4",
     "Title": "Lucid Chart",
     "Description": "",
@@ -29,11 +26,7 @@
     "Title": "Last Pass",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Last-Pass.aspx",
-<<<<<<< HEAD
-    "TechnologyId": "",
-=======
     "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
     "SubjectId": "",
     "Source": "Tenant",
     "StatusTagId": "",
@@ -77,11 +70,7 @@
   "Title": "Getting Started with LastPass",
   "Description": "",
   "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Getting-Started-with-LastPass.aspx",
-<<<<<<< HEAD
-  "TechnologyId": "",
-=======
   "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -102,11 +91,7 @@
   "Title": "Creating a floor plan",
   "Description": "",
   "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/Creatingafloorplan.aspx",
-<<<<<<< HEAD
-  "TechnologyId": "",
-=======
   "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -117,11 +102,7 @@
   "Title": "I am new to floor plans and want to know more",
   "Description": "",
   "Url": "https://office365lds.sharepoint.com/sites/LearningPathwayForSharePoint/SitePages/I-am-new-to-floor-plans-and-want-to-know-more.aspx",
-<<<<<<< HEAD
-  "TechnologyId": "",
-=======
   "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -282,8 +263,4 @@
     "StatusNote": ""
  
 }
-<<<<<<< HEAD
 ]
-=======
-]
->>>>>>> 3b3aa2d42b249b5583653a9507e12323c8e71e62
