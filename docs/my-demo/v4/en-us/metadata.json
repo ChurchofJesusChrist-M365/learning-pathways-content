@@ -148,23 +148,23 @@
   ],
   "StatusTag": [
     {
-      "Id": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
+      "Id": "bb0cbe70-b07d-4fd3-8e4e-8098c7a806e2",
       "Name": "New"
     },
     {
-      "Id": "7694f261-bf60-40bc-8dfd-4cfe7ac4a930",
+      "Id": "382c0d76-f266-4cf7-a746-657f59ad27cd",
       "Name": "Updated"
     },
     {
-      "Id": "1bd4974f-90c7-4dd1-86e0-cc000fbd5550",
+      "Id": "730f5fca-747a-4045-aff8-facc4c4ef472",
       "Name": "Retiring"
     },
     {
-      "Id": "915bd420-54bb-4ae0-9899-5ccfd660d2ae",
+      "Id": "9a5d0719-726d-4d22-80ad-ac8c3cb2f6a2",
       "Name": "Retired"
     },
     {
-      "Id": "98552d52-b868-46c5-9789-5c34f3449a4e",
+      "Id": "d6b55776-e76c-423b-80a0-3a8b82d66af4",
       "Name": "Beta"
     }
   ],
