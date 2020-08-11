@@ -468,7 +468,10 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "38d97c5f-78b6-40b5-af8b-bc6759a98f14" 
+      "c6f235a7-9da3-4df2-ad53-08b05260736b",
+      "0dd5a9bf-9577-404a-9bcb-aeb499852dc0",
+      "c981b27f-7ae2-47ce-aa4a-4ec6de63dc59",
+      "568e6690-ebb1-4dfb-9074-c23634114fc6"
     ],
     "LevelValue": {
       "Id": "451270ff-bc95-4d76-97ae-f3880180ba92",
@@ -654,40 +657,13 @@
       "Name": "End User"
   }
 },
-  { 
-
- "Id": "04107894-b477-4277-a17a-a9d7607c9837",
-  "Title": "Lucid Chart",
-  "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
-  "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
-  "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
-  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
-  "SubjectId": "",
-  "Source": "Tenant",
-  "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
-  "Description": "Adobe.",
-  "StatusTagId": "",
-  "StatusNote": "",
-  "Assets": [
-    "38d97c5f-78b6-40b5-af8b-bc6759a98f14" 
-  ],
-  "LevelValue": {
-    "Id": "451270ff-bc95-4d76-97ae-f3880180ba92",
-    "Name": "Beginner"
-},
-"AudienceValue": {
-    "Id": "7a3eb60b-c94b-4b3b-b550-36a023f12879",
-    "Name": "End User"
-}
-
-},
 {
   "Id": "04107894-b477-4277-a17a-a9d7607c9837",
   "Title": "Lucid Chart",
   "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
   "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
   "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
-  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "TechnologyId": "d3109539-e58a-4e99-9273-a0697968a670",
   "SubjectId": "",
   "Source": "Tenant",
   "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
@@ -707,16 +683,16 @@
 }
 },
 {
-  "Id": "04107894-b477-4277-a17a-a9d7607c9837",
-  "Title": "Lucid Chart",
+  "Id": "e10f1cdf-fb73-4688-b8a2-160a6375c1ae",
+  "Title": "LastPass",
   "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
   "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
   "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
-  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "TechnologyId": "1832d27e-a876-4c70-a1cc-cb73583cbe4c",
   "SubjectId": "",
   "Source": "Tenant",
   "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
-  "Description": "Lucid.",
+  "Description": "Lastpass.",
   "StatusTagId": "",
   "StatusNote": "",
   "Assets": [
@@ -732,7 +708,79 @@
 }
 },
 {
-
+  "Id": "2c7c0192-2c4c-4d52-892a-8dbbd90955a8",
+  "Title": "Project",
+  "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
+  "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
+  "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
+  "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
+  "Description": "Lastpass.",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+    "38d97c5f-78b6-40b5-af8b-bc6759a98f14" 
+  ],
+  "LevelValue": {
+    "Id": "451270ff-bc95-4d76-97ae-f3880180ba92",
+    "Name": "Beginner"
+},
+"AudienceValue": {
+    "Id": "7a3eb60b-c94b-4b3b-b550-36a023f12879",
+    "Name": "End User"
+}
+},
+{
+  "Id": "16220c3a-9ac8-4cdf-9ab4-1aecc1ff7374",
+  "Title": "Visio",
+  "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
+  "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
+  "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
+  "TechnologyId": "7797539e-524b-44a7-bc36-3060777f3c10",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
+  "Description": "Visio.",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+    "38d97c5f-78b6-40b5-af8b-bc6759a98f14" 
+  ],
+  "LevelValue": {
+    "Id": "451270ff-bc95-4d76-97ae-f3880180ba92",
+    "Name": "Beginner"
+},
+"AudienceValue": {
+    "Id": "7a3eb60b-c94b-4b3b-b550-36a023f12879",
+    "Name": "End User"
+}
+},
+{
+  "Id": "56b27cad-5a01-446c-ab94-beca3a0b8415",
+  "Title": "Figma",
+  "Image": "https://office365lds.sharepoint.com/:i:/r/sites/InfoHub/SiteAssets/courses_icon_dropbox.png?csf=1&e=b3upkA",
+  "LevelId": "451270ff-bc95-4d76-97ae-f3880180ba92",
+  "AudienceId": "92fde027-647d-43bc-abc2-cda45c13072e",
+  "TechnologyId": "019d8195-0c70-4109-aa8e-aa228f3b7ddc",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "CatId": "7f0f7be9-77f4-402c-bced-d9b357ac8c15",
+  "Description": "Figma.",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+    "38d97c5f-78b6-40b5-af8b-bc6759a98f14" 
+  ],
+  "LevelValue": {
+    "Id": "451270ff-bc95-4d76-97ae-f3880180ba92",
+    "Name": "Beginner"
+},
+"AudienceValue": {
+    "Id": "7a3eb60b-c94b-4b3b-b550-36a023f12879",
+    "Name": "End User"
+}
 }
 
 ]
