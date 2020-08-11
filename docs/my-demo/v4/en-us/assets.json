@@ -45,7 +45,7 @@
  },
  {
   "Id": "643fc36d-c7dd-48f1-9282-61d677547329",
-  "Title": "What is Adobe Fuse",
+  "Title": "What is Adobe Fuse?",
   "Description": "Adobe Fuse CC. Adobe Fuse CC (formerly Fuse Character Creator) is a 3D computer graphics software that enables users to create 3D characters.",
   "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/What-is-Adobe-Fuse--(2).aspx",
   "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
@@ -88,10 +88,10 @@
   "StatusNote": ""
  },
  {
-  "Id": "",
-  "Title": "",
-  "Description": "",
-  "Url": "",
+  "Id": "c6f235a7-9da3-4df2-ad53-08b05260736b",
+  "Title": "PhotoShop Get Started Course",
+  "Description": "Getting Familiar with Photoshop",
+  "Url": "42836807-eba0-490d-89ac-4e524f71b343",
   "TechnologyId": "",
   "SubjectId": "",
   "Source": "Tenant",
