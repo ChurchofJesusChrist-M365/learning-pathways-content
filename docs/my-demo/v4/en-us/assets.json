@@ -91,8 +91,41 @@
   "Id": "c6f235a7-9da3-4df2-ad53-08b05260736b",
   "Title": "PhotoShop Get Started Course",
   "Description": "Getting Familiar with Photoshop",
-  "Url": "42836807-eba0-490d-89ac-4e524f71b343",
-  "TechnologyId": "",
+  "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Photoshop-Get-Started-Course.aspx",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+  "Id": "0dd5a9bf-9577-404a-9bcb-aeb499852dc0",
+  "Title": "Work with layers",
+  "Description": "",
+  "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Work-With-Layers.aspx",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+"Id": "c981b27f-7ae2-47ce-aa4a-4ec6de63dc59",
+  "Title": "Change the image size",
+  "Description": "",
+  "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Change-the-image-size.aspx",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+  "Id": "568e6690-ebb1-4dfb-9074-c23634114fc6",
+  "Title": "Adjust the image Quality",
+  "Description": "Enhance the image quality",
+  "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Adjust-the-image-quality.aspx",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -103,7 +136,7 @@
   "Title": "",
   "Description": "",
   "Url": "",
-  "TechnologyId": "",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -114,7 +147,40 @@
   "Title": "",
   "Description": "",
   "Url": "",
-  "TechnologyId": "",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+  "Id": "",
+  "Title": "",
+  "Description": "",
+  "Url": "",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+  "Id": "",
+  "Title": "",
+  "Description": "",
+  "Url": "",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
+  "SubjectId": "",
+  "Source": "Tenant",
+  "StatusTagId": "",
+  "StatusNote": ""
+ },
+ {
+  "Id": "",
+  "Title": "",
+  "Description": "",
+  "Url": "",
+  "TechnologyId": "42836807-eba0-490d-89ac-4e524f71b343",
   "SubjectId": "",
   "Source": "Tenant",
   "StatusTagId": "",
@@ -230,7 +296,7 @@
   "StatusNote": ""
 },
 {
-    "Id": "85",
+    "Id": "068575ee-3e56-405d-aa9b-14ad804af99f",
     "Title": "Create a project",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Create-a-project.aspx",
@@ -241,7 +307,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "86",
+    "Id": "e4f46e09-a6be-42d3-8159-a10abf6ec194",
     "Title": "Build your project",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Build-your-project.aspx",
@@ -252,7 +318,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "87",
+    "Id": "35fb9382-25e7-418d-90b8-435b5d2dba5b",
     "Title": "Manage a project",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Manage-a-project.aspx",
@@ -263,7 +329,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "88",
+    "Id": "35f920fa-1ea2-499c-a35c-f34fe0eeda04",
     "Title": "Learn more",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Learn-more(1).aspx",
@@ -274,9 +340,9 @@
     "StatusNote": ""
  },
  {
-    "Id": "89",
+    "Id": "4b417b9e-32d4-454b-b7cd-37394726c7f7",
     "Title": "Get Started",
-    "Description": "",
+    "Description": "Get started with Project for the web",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Get-Started.aspx",
     "TechnologyId": "94e80506-6457-4207-af50-e6b90129a56a",
     "SubjectId": "",
@@ -285,7 +351,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "90",
+    "Id": "1983c20e-02f2-4ca7-8d25-a151989b692c",
     "Title": "Build a project",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Build-a-project.aspx",
@@ -296,7 +362,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "91",
+    "Id": "44662f1c-e550-4dfa-b26f-1e75f784f939",
     "Title": "Organize your project",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Organize-your-project.aspx",
@@ -307,7 +373,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "92",
+    "Id": "f29cbdf3-a99b-4fe5-a1cd-72a6c173b530",
     "Title": "Share and assign tasks",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Share-and-assign-tasks.aspx",
@@ -318,7 +384,7 @@
     "StatusNote": ""
  },
  {
-    "Id": "93",
+    "Id": "e9f151a1-3fb8-45a1-82fc-590e4458ab65 ",
     "Title": "Get started with Project Home",
     "Description": "",
     "Url": "https://office365lds.sharepoint.com/sites/infohub/SitePages/Get-started-with-Project-Home.aspx",
