@@ -769,4 +769,27 @@
     "StatusNote": ""
  
 }
-]
+{
+    "Id": "6c723309-4aa2-4dd5-a578-c0aeb9945be8",
+    "Title": "Create a Figma Account",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Create-a-Figma-Account.aspx",
+    "TechnologyId": "6ebe3b3d-6b67-48a2-84ac-8319604aeeae",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+ 
+},
+{
+    "Id": "2375e5f0-646e-4a80-9056-224767f63d3b",
+    "Title": "Create a Figma Account",
+    "Description": "",
+    "Url": "https://office365lds.sharepoint.com/sites/InfoHub/SitePages/Figma-Browser-Requirements.aspx",
+    "TechnologyId": "6ebe3b3d-6b67-48a2-84ac-8319604aeeae",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+] 
